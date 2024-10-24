@@ -13,3 +13,10 @@ else if (myGrade <= 69 && myGrade >= 60) {
     console.log("D");
 }
 else console.log("F")
+
+let i = 1;
+
+while(i <=100) {
+    console.log(i);
+    i++
+}
