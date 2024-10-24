@@ -8,4 +8,4 @@ const pi = 3.14;
 
 let myNumber = 6
 
-console.log(Math.min(pi, myNumber));
+console.log(Math.min(pi, myNumber)); // 3.14 < 6 myNumber = 6 pi = 3.14
