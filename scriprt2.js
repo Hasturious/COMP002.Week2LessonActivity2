@@ -1,14 +1,15 @@
-let myGrade = 100
+let myGrade = 50
 
 if (myGrade >= 90) {
     console.log("A");
 }
-else if (myGrade =< 89 && > 80) {
+else if (myGrade <= 89 && myGrade >= 80) {
     console.log("B");
 }
-else if (myGrade =< 79 && > 70) {
+else if (myGrade <= 79 && myGrade >= 70) {
     console.log("C");
 }
-else if (myGrade =< 69 && > 60) {
+else if (myGrade <= 69 && myGrade >= 60) {
     console.log("D");
 }
+else console.log("F")
