@@ -14,9 +14,11 @@ else if (myGrade <= 69 && myGrade >= 60) {
 }
 else console.log("F")
 
-let i = 1;
 
-while(i <=100) {
+
+
+
+
+for(let i = 0;i <=100; i ++) {
     console.log(i);
-    i++
 }
