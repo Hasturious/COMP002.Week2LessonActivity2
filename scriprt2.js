@@ -14,11 +14,14 @@ else if (myGrade <= 69 && myGrade >= 60) {
 }
 else console.log("F")
 
-
-
-
-
+switch (prompt(50)){
+    case 
+    break;
+}
 
 for(let i = 0;i <=100; i ++) {
-    console.log(i);
+    if (i%2 == 1){
+        console.log("!")
+    }
+    else (console.log(i))
 }
